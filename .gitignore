@@ -1,0 +1,14 @@
+# Environment — never commit real credentials
+config/.env
+
+# Uploaded user files
+uploads/
+
+# Node / build artifacts
+node_modules/
+package-lock.json
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/settings.local.json

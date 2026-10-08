@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\xampp\\\\htdocs\\\\mizan\" -Recurse -Filter \"*.php\")",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "Bash(grep -n \"CREATE TABLE.*users\\\\|\\\\`users\\\\`\" /c/xampp/htdocs/mizan/database.sql)",
+      "Bash(git show *)",
+      "Read(//tmp/**)",
+      "Bash(python3)",
+      "Bash(python3 C:/xampp/htdocs/mizan/tmp/_patch_support.py)",
+      "Bash(python *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Skill(ui-ux-pro-max)",
+      "Skill(ui-ux-pro-max:*)",
+      "Skill(superpowers:subagent-driven-development)",
+      "Skill(superpowers:subagent-driven-development:*)",
+      "Bash(npx tsc *)",
+      "Bash(npm install *)",
+      "Bash(node_modules/.bin/playwright test *)"
+    ]
+  }
+}
