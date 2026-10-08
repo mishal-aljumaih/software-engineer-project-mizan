@@ -78,7 +78,7 @@ $is_logged_in = !empty($_SESSION['user_id']);
                         <div class="uni-name" id="uniName">جامعة الإمام عبدالرحمن بن فيصل</div>
                         <div class="uni-sub" id="uniNamesub">كلية الحاسب وتقنية المعلومات</div>
                         <div class="uni-chips">
-                            <span class="chip chip-dr" id="chipDr">🎓 د. سقيب سعيد</span>
+                            <span class="chip chip-dr" id="chipDr">🎓 . </span>
                             <span class="chip chip-cs" id="chipCs">هندسة البرمجيات</span>
                         </div>
                     </div>
@@ -147,7 +147,7 @@ $is_logged_in = !empty($_SESSION['user_id']);
                             <div class="sn-role" id="rl">مسؤول Scrum / قائد الفريق</div>
                             <div class="sn-name">Mishal Al-jumaih</div>
                             <div class="sn-ar">مشعل الجميعه</div>
-                            <div class="sn-id">2250030163</div>
+                            <div class="sn-id"></div>
                         </div>
 
                         <div class="sc-mems">
