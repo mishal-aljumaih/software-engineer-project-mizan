@@ -3,7 +3,6 @@
  * PROJECT: Mizan Financial Archiving Platform v4.5
  * FILE: main.js
  * PURPOSE: Global frontend bootstrap: navigation, i18n, toasts, helpers.
- * OWNER: Abdullah Radhi - UI/UX & Frontend Lead
  * ========================================================================
  */
 // ============================================================

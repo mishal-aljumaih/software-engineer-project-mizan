@@ -4,7 +4,6 @@
  * PROJECT: Mizan Financial Archiving Platform v4.5
  * FILE: header.php
  * PURPOSE: Shared top navigation, sidebar, and per-page JS bootstrap variables.
- * OWNER: Abdullah Radhi - Development Member, DB Admin & UI/UX Lead
  * ========================================================================
  */
 // includes/header.php

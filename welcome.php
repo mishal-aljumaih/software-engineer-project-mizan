@@ -151,18 +151,8 @@ $is_logged_in = !empty($_SESSION['user_id']);
                         </div>
 
                         <div class="sc-mems">
-                            <div class="sn m1">
-                                <div class="sn-role" id="rm1">فريق التطوير / عضو</div>
-                                <div class="sn-name">Abdullah Radhi</div>
-                                <div class="sn-ar">عبدالله راضي</div>
-                                <div class="sn-id">2250030274</div>
-                            </div>
-                            <div class="sn m2">
-                                <div class="sn-role" id="rm2">فريق التطوير / عضو</div>
-                                <div class="sn-name">Alwaleed Al-zahrani</div>
-                                <div class="sn-ar">الوليد الزهراني</div>
-                                <div class="sn-id">2250030089</div>
-                            </div>
+                            
+                            
                         </div>
                     </div>
                 </div>

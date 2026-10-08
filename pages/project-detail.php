@@ -4,7 +4,6 @@
  * PROJECT: Mizan Financial Archiving Platform v4.5
  * FILE: project-detail.php
  * PURPOSE: Detailed view of a single project including budgets and files.
- * OWNER: Alwaleed Alzahrani - Development & Database Admin (Lead Programmer)
  * ========================================================================
  */
 require_once '../includes/auth.php';

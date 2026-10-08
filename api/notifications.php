@@ -4,7 +4,6 @@
  * PROJECT: Mizan Financial Archiving Platform v4.5
  * FILE: notifications.php
  * PURPOSE: In-app notifications: list, mark read, badge counts.
- * OWNER: Alwaleed Alzahrani - Development & Database Admin (Lead Programmer)
  * ========================================================================
  */
 require_once __DIR__ . "/../includes/security.php";

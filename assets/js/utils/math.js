@@ -3,7 +3,6 @@
  * PROJECT: Mizan Financial Archiving Platform v4.5
  * FILE: math.js
  * PURPOSE: Small math utilities used across the frontend.
- * OWNER: Alwaleed Alzahrani - Development & Database Admin (Lead Programmer)
  * ========================================================================
  */
 (function (root) {

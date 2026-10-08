@@ -4,7 +4,6 @@
  * PROJECT: Mizan Financial Archiving Platform v4.5
  * FILE: support.php
  * PURPOSE: Support center: policies area and contact/tickets area (SPA toggle).
- * OWNER: Alwaleed Alzahrani - Development & Database Admin (Lead Programmer)
  * ========================================================================
  */
 require_once '../includes/auth.php';

@@ -4,7 +4,6 @@
  * PROJECT: Mizan Financial Archiving Platform v4.5
  * FILE: support.php
  * PURPOSE: Support tickets API: create, list, reply, status.
- * OWNER: Alwaleed Alzahrani - Development & Database Admin (Lead Programmer)
  * ========================================================================
  */
 declare(strict_types=1);

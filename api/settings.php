@@ -4,7 +4,6 @@
  * PROJECT: Mizan Financial Archiving Platform v4.5
  * FILE: settings.php
  * PURPOSE: User settings endpoints: profile, password, preferences.
- * OWNER: Alwaleed Alzahrani - Development & Database Admin (Lead Programmer)
  * ========================================================================
  */
 require_once __DIR__ . "/../includes/security.php";

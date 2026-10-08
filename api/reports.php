@@ -4,7 +4,6 @@
  * PROJECT: Mizan Financial Archiving Platform v4.5
  * FILE: reports.php
  * PURPOSE: Reports API: chart datasets and aggregated analytics.
- * OWNER: Alwaleed Alzahrani - Development & Database Admin (Lead Programmer)
  * ========================================================================
  */
 // Returns aggregated analytics data for the reports dashboard.

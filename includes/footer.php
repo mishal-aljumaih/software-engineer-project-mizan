@@ -4,7 +4,6 @@
  * PROJECT: Mizan Financial Archiving Platform v4.5
  * FILE: footer.php
  * PURPOSE: Shared footer markup and global script include block.
- * OWNER: Abdullah Radhi - Development Member, DB Admin & UI/UX Lead
  * ========================================================================
  */
 // includes/footer.php

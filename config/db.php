@@ -4,7 +4,6 @@
  * PROJECT: Mizan Financial Archiving Platform v4.5
  * FILE: db.php
  * PURPOSE: PDO database connection and shared currency/formatting helpers.
- * OWNER: Alwaleed Al-zahrani - Backend, Database & API Lead
  * ========================================================================
  */
 // Fix PHP's clock to Saudi local time so created_at columns and date math match the user's expectations

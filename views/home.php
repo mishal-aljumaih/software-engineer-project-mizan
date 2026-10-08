@@ -4,7 +4,6 @@
  * PROJECT: Mizan Financial Archiving Platform v4.5
  * FILE: home.php
  * PURPOSE: Standalone landing/home view (legacy marketing page).
- * OWNER: Abdullah Radhi - UI/UX & Frontend Lead
  * ========================================================================
  */
 ?>

@@ -4,7 +4,6 @@
  * PROJECT: Mizan Financial Archiving Platform v4.5
  * FILE: smart_upload_modal.php
  * PURPOSE: Reusable smart-upload modal markup with drag-and-drop support.
- * OWNER: Abdullah Radhi - Development Member, DB Admin & UI/UX Lead
  * ========================================================================
  */
 // ============================================================
